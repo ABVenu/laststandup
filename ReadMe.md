@@ -6,6 +6,12 @@
 ### Topics covered
 
 1. Intro to Variables
+1. Intro to Variables
+1. Intro to Variables
+1. Intro to Variables
+1. Intro to Variables
+
+
 
 
 
